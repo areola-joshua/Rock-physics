@@ -55,7 +55,6 @@ The repository includes code and workflows demonstrating how the following dynam
 ├── notebooks/             # Jupyter notebooks for petrophysics & RPT crossplots
 ├── src/                   # Source code modules (LMR, NEI, and AI equations)
 ├── outputs/               # Saved figures (Crossplots 4, 5, 6, and 7)
-├── LICENSE                # Project license details
 └── README.md              # Project documentation
 
 ```
